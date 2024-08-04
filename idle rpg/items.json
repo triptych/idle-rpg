@@ -1,0 +1,442 @@
+[
+    {
+        "id": 1,
+        "name": "Healing Potion",
+        "type": "item",
+        "description": "Restores a small amount of HP.",
+        "effect": {
+            "hp": 20
+        }
+    },
+    {
+        "id": 2,
+        "name": "Mana Elixir",
+        "type": "item",
+        "description": "Replenishes a small amount of mana.",
+        "effect": {
+            "mana": 15
+        }
+    },
+    {
+        "id": 3,
+        "name": "Iron Sword",
+        "type": "weapon",
+        "description": "A sturdy sword made of iron.",
+        "effect": {
+            "attack": 10
+        }
+    },
+    {
+        "id": 4,
+        "name": "Leather Armor",
+        "type": "armor",
+        "description": "Light armor made of leather.",
+        "effect": {
+            "defense": 5
+        }
+    },
+    {
+        "id": 5,
+        "name": "Gold Coins",
+        "type": "treasure",
+        "description": "A small pouch of gold coins.",
+        "quantity": 50
+    },
+    {
+        "id": 6,
+        "name": "Antidote",
+        "type": "item",
+        "description": "Cures poison.",
+        "effect": {
+            "curePoison": true
+        }
+    },
+    {
+        "id": 7,
+        "name": "Fire Scroll",
+        "type": "item",
+        "description": "A scroll that casts a fire spell.",
+        "effect": {
+            "fireDamage": 30
+        }
+    },
+    {
+        "id": 8,
+        "name": "Steel Helmet",
+        "type": "armor",
+        "description": "A helmet made of steel.",
+        "effect": {
+            "defense": 8
+        }
+    },
+    {
+        "id": 9,
+        "name": "Silver Ring",
+        "type": "treasure",
+        "description": "A silver ring with intricate engravings.",
+        "quantity": 1
+    },
+    {
+        "id": 10,
+        "name": "Mithril Dagger",
+        "type": "weapon",
+        "description": "A lightweight dagger made of mithril.",
+        "effect": {
+            "attack": 15
+        }
+    },
+    {
+        "id": 11,
+        "name": "Stamina Potion",
+        "type": "item",
+        "description": "Restores a small amount of stamina.",
+        "effect": {
+            "stamina": 25
+        }
+    },
+    {
+        "id": 12,
+        "name": "Chainmail Armor",
+        "type": "armor",
+        "description": "Heavy armor made of interlocking chains.",
+        "effect": {
+            "defense": 12
+        }
+    },
+    {
+        "id": 13,
+        "name": "Sapphire Gem",
+        "type": "treasure",
+        "description": "A precious sapphire gem.",
+        "quantity": 1
+    },
+    {
+        "id": 14,
+        "name": "Ice Wand",
+        "type": "weapon",
+        "description": "A wand that shoots ice bolts.",
+        "effect": {
+            "attack": 12,
+            "iceDamage": 5
+        }
+    },
+    {
+        "id": 15,
+        "name": "Bronze Shield",
+        "type": "armor",
+        "description": "A sturdy shield made of bronze.",
+        "effect": {
+            "defense": 10
+        }
+    },
+    {
+        "id": 16,
+        "name": "Smoke Bomb",
+        "type": "item",
+        "description": "Creates a cloud of smoke, allowing for escape.",
+        "effect": {
+            "escape": true
+        }
+    },
+    {
+        "id": 17,
+        "name": "Enchanted Bow",
+        "type": "weapon",
+        "description": "A bow imbued with magical energy.",
+        "effect": {
+            "attack": 18
+        }
+    },
+    {
+        "id": 18,
+        "name": "Golden Amulet",
+        "type": "treasure",
+        "description": "An amulet made of pure gold.",
+        "quantity": 1
+    },
+    {
+        "id": 19,
+        "name": "Invisibility Cloak",
+        "type": "armor",
+        "description": "A cloak that renders the wearer invisible.",
+        "effect": {
+            "invisibility": true
+        }
+    },
+    {
+        "id": 20,
+        "name": "Poison Dagger",
+        "type": "weapon",
+        "description": "A dagger coated with deadly poison.",
+        "effect": {
+            "attack": 8,
+            "poison": 10
+        }
+    },
+    {
+        "id": 21,
+        "name": "Mana Crystal",
+        "type": "item",
+        "description": "A crystal that replenishes a moderate amount of mana.",
+        "effect": {
+            "mana": 30
+        }
+    },
+    {
+        "id": 22,
+        "name": "Dragonscale Armor",
+        "type": "armor",
+        "description": "Armor made from the scales of a dragon.",
+        "effect": {
+            "defense": 20
+        }
+    },
+    {
+        "id": 23,
+        "name": "Silver Chalice",
+        "type": "treasure",
+        "description": "A chalice made of silver with gem encrusted.",
+        "quantity": 1
+    },
+    {
+        "id": 24,
+        "name": "Staff of Healing",
+        "type": "weapon",
+        "description": "A staff that heals the wielder.",
+        "effect": {
+            "attack": 5,
+            "healing": 15
+        }
+    },
+    {
+        "id": 25,
+        "name": "Titan Shield",
+        "type": "armor",
+        "description": "A massive shield that offers great protection.",
+        "effect": {
+            "defense": 25
+        }
+    },
+    {
+        "id": 26,
+        "name": "Haste Potion",
+        "type": "item",
+        "description": "Increases movement speed temporarily.",
+        "effect": {
+            "haste": true
+        }
+    },
+    {
+        "id": 27,
+        "name": "Vorpal Sword",
+        "type": "weapon",
+        "description": "A sword with a razor-sharp blade.",
+        "effect": {
+            "attack": 22
+        }
+    },
+    {
+        "id": 28,
+        "name": "Emerald Necklace",
+        "type": "treasure",
+        "description": "A necklace with a large emerald pendant.",
+        "quantity": 1
+    },
+    {
+        "id": 29,
+        "name": "Frost Armor",
+        "type": "armor",
+        "description": "Armor that protects against cold attacks.",
+        "effect": {
+            "defense": 18,
+            "coldResistance": 10
+        }
+    },
+    {
+        "id": 30,
+        "name": "Cloak of Invisibility",
+        "type": "armor",
+        "description": "A cloak that grants temporary invisibility.",
+        "effect": {
+            "invisibility": true
+        }
+    },
+    {
+        "id": 31,
+        "name": "Ring of Protection",
+        "type": "treasure",
+        "description": "A ring that enhances defense.",
+        "effect": {
+            "defense": 5
+        }
+    },
+    {
+        "id": 32,
+        "name": "Wand of Fireballs",
+        "type": "weapon",
+        "description": "A wand that shoots fireballs.",
+        "effect": {
+            "attack": 20,
+            "fireDamage": 15
+        }
+    },
+    {
+        "id": 33,
+        "name": "Boots of Speed",
+        "type": "armor",
+        "description": "Boots that increase movement speed.",
+        "effect": {
+            "speed": 10
+        }
+    },
+    {
+        "id": 34,
+        "name": "Elven Bow",
+        "type": "weapon",
+        "description": "A finely crafted bow from the elven lands.",
+        "effect": {
+            "attack": 25
+        }
+    },
+    {
+        "id": 35,
+        "name": "Dragon Scales",
+        "type": "treasure",
+        "description": "Rare scales from a dragon.",
+        "quantity": 5
+    },
+    {
+        "id": 36,
+        "name": "Amulet of Health",
+        "type": "treasure",
+        "description": "An amulet that increases maximum health.",
+        "effect": {
+            "maxHealth": 50
+        }
+    },
+    {
+        "id": 37,
+        "name": "Helmet of Night Vision",
+        "type": "armor",
+        "description": "A helmet that grants night vision.",
+        "effect": {
+            "nightVision": true
+        }
+    },
+    {
+        "id": 38,
+        "name": "Skeleton Key",
+        "type": "item",
+        "description": "A key that can unlock any lock.",
+        "effect": {
+            "unlockLock": true
+        }
+    },
+    {
+        "id": 39,
+        "name": "Warhammer of Thunder",
+        "type": "weapon",
+        "description": "A hammer that summons thunderbolts.",
+        "effect": {
+            "attack": 30,
+            "thunderDamage": 20
+        }
+    },
+    {
+        "id": 40,
+        "name": "Robe of the Archmage",
+        "type": "armor",
+        "description": "A robe worn by powerful archmages.",
+        "effect": {
+            "defense": 15,
+            "magicResistance": 20
+        }
+    },
+    {
+        "id": 41,
+        "name": "Philosopher's Stone",
+        "type": "treasure",
+        "description": "A legendary stone that grants immense power.",
+        "quantity": 1
+    },
+    {
+        "id": 42,
+        "name": "Enchanted Quiver",
+        "type": "item",
+        "description": "A quiver that replenishes arrows.",
+        "effect": {
+            "replenishArrows": true
+        }
+    },
+    {
+        "id": 43,
+        "name": "Staff of the Necromancer",
+        "type": "weapon",
+        "description": "A staff used by necromancers to summon the undead.",
+        "effect": {
+            "attack": 15,
+            "summonUndead": true
+        }
+    },
+    {
+        "id": 44,
+        "name": "Gauntlets of Strength",
+        "type": "armor",
+        "description": "Gauntlets that increase strength.",
+        "effect": {
+            "strength": 10
+        }
+    },
+    {
+        "id": 45,
+        "name": "Orb of Destruction",
+        "type": "item",
+        "description": "An orb that causes massive destruction.",
+        "effect": {
+            "areaDamage": 100
+        }
+    },
+    {
+        "id": 46,
+        "name": "Crown of the King",
+        "type": "treasure",
+        "description": "A crown worn by the rightful king.",
+        "quantity": 1
+    },
+    {
+        "id": 47,
+        "name": "Ring of Regeneration",
+        "type": "treasure",
+        "description": "A ring that speeds up health regeneration.",
+        "effect": {
+            "healthRegeneration": 5
+        }
+    },
+    {
+        "id": 48,
+        "name": "Cloak of Shadows",
+        "type": "armor",
+        "description": "A cloak that blends the wearer into the shadows.",
+        "effect": {
+            "stealthBoost": 20
+        }
+    },
+    {
+        "id": 49,
+        "name": "Wand of Polymorph",
+        "type": "weapon",
+        "description": "A wand that transforms the target into a harmless creature.",
+        "effect": {
+            "polymorph": true
+        }
+    },
+    {
+        "id": 50,
+        "name": "Elixir of Life",
+        "type": "item",
+        "description": "A rare elixir that fully restores health and mana.",
+        "effect": {
+            "fullRestore": true
+        }
+    }
+]

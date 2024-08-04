@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "name": "Goblin",
+        "description": "A small, mischievous creature with a penchant for stealing.",
+        "hp": 30,
+        "attack": 5,
+        "defense": 2,
+        "experiencePoints": 10
+    },
+    {
+        "id": 2,
+        "name": "Orc Warrior",
+        "description": "A fierce and brutish orc, armed with a crude battleaxe.",
+        "hp": 50,
+        "attack": 12,
+        "defense": 8,
+        "experiencePoints": 25
+    },
+    {
+        "id": 3,
+        "name": "Skeleton Archer",
+        "description": "An undead archer, firing arrows from a distance.",
+        "hp": 40,
+        "attack": 8,
+        "defense": 4,
+        "experiencePoints": 15
+    },
+    {
+        "id": 4,
+        "name": "Troll",
+        "description": "A hulking troll with tough skin and regenerative powers.",
+        "hp": 80,
+        "attack": 15,
+        "defense": 10,
+        "experiencePoints": 40
+    },
+    {
+        "id": 5,
+        "name": "Dragon",
+        "description": "A fearsome dragon, breathing fire and guarding a treasure hoard.",
+        "hp": 200,
+        "attack": 30,
+        "defense": 20,
+        "experiencePoints": 100
+    }
+]

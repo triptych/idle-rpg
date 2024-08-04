@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "name": "Enchanted Forest",
+        "description": "A mystical forest filled with ancient trees and magical creatures."
+    },
+    {
+        "id": 2,
+        "name": "Misty Mountains",
+        "description": "Towering mountains shrouded in mist, home to fierce monsters and hidden treasures."
+    },
+    {
+        "id": 3,
+        "name": "Forgotten Dungeon",
+        "description": "A dark and dank dungeon filled with traps, undead creatures, and long-lost artifacts."
+    },
+    {
+        "id": 4,
+        "name": "Coastal Caverns",
+        "description": "Caverns carved into the cliffs by the relentless waves, housing mysterious aquatic beings."
+    },
+    {
+        "id": 5,
+        "name": "Scorched Desert",
+        "description": "A vast desert with scorching sands, dotted with ancient ruins and plagued by sandstorms."
+    }
+]
